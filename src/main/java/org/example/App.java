@@ -19,6 +19,7 @@ public class App
 
 //        personService.creteTablePerson();
 
+
         Person person1 = new Person("Rashid", 20, Gender.MALE, "rashid@gmail.com");
         Person person2 = new Person("Aigerim", 22, Gender.FEMALE, "aigerim@gmail.com");
 //
